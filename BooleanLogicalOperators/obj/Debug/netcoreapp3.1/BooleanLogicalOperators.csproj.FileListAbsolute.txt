@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.csproj.CoreCompileInputs.cache
